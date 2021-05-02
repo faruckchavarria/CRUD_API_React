@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "Nombre": "faruck",
+      "Telefono": "58726730",
+      "Empresa": "URACCAN",
+      "Correo": "faruck@gmail.com",
+      "id": 1
+    },
+    {
+      "Nombre": "faruck24",
+      "Telefono": "58726730",
+      "Empresa": "URACCAN",
+      "Correo": "faruck@gmail.com",
+      "id": 2
+    },
+    {
+      "Nombre": "mario",
+      "Telefono": "44444444",
+      "Empresa": "adsda",
+      "Correo": "correo",
+      "id": 3
+    }
+  ]
+}
